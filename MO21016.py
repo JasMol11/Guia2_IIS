@@ -1,6 +1,6 @@
 # Jason Alexander Molina Ortiz ~ MO21016 ~ IIS GT08
 # Calculadora de comisiones de vendedores
-
+# Hotfix
 print("=========================================")
 print("BIENVENIDO A LA CALCULADORA DE COMISIONES")
 print("=========================================")
